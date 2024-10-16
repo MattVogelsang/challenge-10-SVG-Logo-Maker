@@ -1,5 +1,8 @@
 # Challenge-10-SVG-Logo-Maker
 
+<img src="images/Screenshot 2024-10-15 220401.png">
+
+<a href="https://drive.google.com/file/d/1vi3g25EcVkUEsKsRCiUqEL0_p0udffRg/view"> Click here for video </a>
 
 ## Description
 
